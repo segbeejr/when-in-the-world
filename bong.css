@@ -16,6 +16,7 @@ header {
     padding-inline-start: 6rem;
     padding-inline-end: 6rem;
     background: hsl(0, 0%, 98%);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -31,6 +32,8 @@ header {
     padding: 6px;
     width: 480px;
     height: 3rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
 }
 
 .search-div .search-icon {
@@ -51,6 +54,8 @@ select {
     border-radius: 4px;
     height: 3rem;
     background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
 }
   
 select option {
