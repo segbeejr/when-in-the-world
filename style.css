@@ -99,7 +99,7 @@ select option {
 .grid-div {
     /* padding-left: 38px; */
     /* border: 1px solid red; */
-    height: 210px;
+    height: 230px;
     padding-top: 1rem;
     padding-left: 1rem;
 
@@ -112,7 +112,6 @@ select option {
     background: hsl(209, 23%, 22%);
     padding: 10px;
     border-radius: 5px;
-    
 }
 
 .image img {
